@@ -1,0 +1,16 @@
+{
+  "name": "inliner",
+  "version": "1.0.0",
+  "description": "remove comments and inlines css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "process": "node index.js"
+  },
+  "author": "AranaDeDoros",
+  "license": "ISC",
+  "dependencies": {
+    "juice": "^7.0.0",
+    "strip-html-comments": "^1.0.0"
+  }
+}
