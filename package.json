@@ -1,5 +1,5 @@
 {
-  "name": "inliner",
+  "name": "strip and inline",
   "version": "1.0.0",
   "description": "remove comments and inlines css",
   "main": "index.js",
